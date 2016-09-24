@@ -1,4 +1,0 @@
-table filter { chain INPUT {
-		proto tcp dport ssh DROP;
-	}		
-}
